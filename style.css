@@ -3,4 +3,52 @@ body {
     font-family: 'Alfa Slab One', cursive;
     font-family: 'Bebas Neue', cursive;
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+section {
+    display: flex;
+
+}
+
+h1 {
+    font-size: 400%;
+}
+
+.heading-color {
+    color: tomato;
+}
+
+.khana-fina-color {
+    color: aqua;
+}
+
+.part1-half {
+    width: 50%;
+    padding: 3%;
+}
+
+.fitman-image {
+    width: 140%;
+
+}
+
+.food-link {
+    text-decoration: none;
+    background-image: linear-gradient(yellow, red);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-weight: 900;
+}
+
+
+.bg-image {
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.food-link2 {
+    margin-top: 40px;
 }
